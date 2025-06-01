@@ -27,7 +27,7 @@ The **Smart Waste Bin** is a smart, sensor-integrated dustbin that detects waste
 |----------------------|--------------------------|
 | 🔌 Arduino/ESP8266    | 💻 Arduino IDE            |
 | 🌐 WiFi Module        | ☁️ Firebase Realtime DB   |
-| 📏 Ultrasonic Sensor  | 🌐 Netlify for Dashboard  |
+| 📏 Ultrasonic Sensor  | 🌐 Netlify for Dashboard Deployment  |
 | 🔋 Battery/Power Bank | 📱 HTML, CSS, JavaScript  |
 
 ---
